@@ -1,3 +1,0 @@
-Weather data was collected using the Yahoo Weather API.  
-We also used a python wrapper specially for this API created by Anthony Bloomer.
-Information about the webpage theme is located in the README file.
